@@ -1,99 +1,79 @@
-Bright Head için Gizlilik Politikası
+# Privacy Policy for Bright Head
 
-Son güncelleme: 5 Mart 2026
+Last updated: March 28, 2026
 
-Bright Head (“biz”, “uygulama”) iyi oluş (wellness) desteği ve tetikleyici (trigger) düzenleme konusunda rehberlik sağlar.
-Bright Head bir tıbbi cihaz değildir ve tıbbi teşhis veya tedavi sunmaz.
+Bright Head ("we", "our", "the app") provides wellness support and trigger-regulation guidance.
+Bright Head is not a medical device and does not provide diagnosis or treatment.
 
-1. Eriştiğimiz Veriler
-Sağlık Verileri (Apple HealthKit, Apple Watch)
+## 1. Data We Access
 
-İzin verirseniz uygulama aşağıdaki verilere erişebilir:
+### Health and Motion Data (Apple HealthKit, Apple Watch, Motion)
+If you grant permission, the app may access:
+- Heart rate
+- Workout session context used to enable live heart-rate collection on Apple Watch
+- Motion and step data used for activity context and activity gating
 
-Kalp atış hızı
+### User-Provided Content
+If you use Relationship Reminders, the app stores:
+- Text captions you enter
+- Photos you select
 
-Kalp atış hızı değişkenliği (HRV)
+### Onboarding Answers
+If you complete onboarding questions, your selected answers may be stored on-device to personalize your in-app experience.
 
-Canlı kalp atış verisi toplanmasını sağlamak için egzersiz oturumu bilgisi
+### Subscription Status
+For subscriptions, the app uses RevenueCat and Apple in-app purchase systems to check entitlement status.
+We do not collect your card or payment credentials directly.
 
-Hareket / Aktivite Verileri
+### Support Form (Optional)
+If you open Help & Feedback, a support form is loaded from Tally (`tally.so`).
 
-İzin verirseniz uygulama aktivite bağlamını algılamak için hareket ve adım verilerine erişebilir (örneğin yürüyüş veya egzersiz sırasında farklı çalışma mantığı).
+## 2. How We Use Data
+We use data to:
+- Estimate trigger state in real time
+- Show calming tools and guidance
+- Display and sync live status between paired Apple Watch and iPhone
+- Manage subscription entitlement status
 
-Kullanıcı Tarafından Sağlanan İçerik
+We do not use your data for advertising.
 
-Relationship Reminders özelliğini kullanırsanız uygulama şunları saklar:
+## 3. Storage and Sharing
+- Relationship reminder text and photos are stored locally on your device.
+- Relationship reminder files are written with iOS file protection.
+- Trigger-detection physiological signals (such as heart-rate signals used by the app) are processed on-device.
+- Physiological data used for trigger analysis is not sent to external servers by the app.
+- Live status signals are exchanged between paired watch and phone using Apple WatchConnectivity.
+- We do not sell personal data.
+- We do not share HealthKit data with third parties for marketing.
 
-Girdiğiniz metin açıklamaları
+## 4. Health and Safety Notice
+Bright Head is intended for general wellness support only.
+It is not intended to diagnose, treat, cure, or prevent any disease or medical condition.
+If you feel unwell or have concerning symptoms, contact a qualified healthcare professional.
 
-Seçtiğiniz fotoğraflar
+## 5. Permissions
+You may deny or revoke permissions at any time in iOS/watchOS settings:
+- Health permissions (Health app / Settings)
+- Motion & Fitness
+- Notifications
+- Photos access (if using reminder photos)
 
-2. Verileri Nasıl Kullanıyoruz
+Some features may not work without required permissions.
 
-Verileri şu amaçlarla kullanırız:
+## 6. Children
+Bright Head is not directed to children under 13.
+If you believe a child has provided personal information, contact us to request deletion.
 
-Gerçek zamanlı olarak tetikleyici (trigger) durumunu tahmin etmek
+## 7. Data Retention
+Reminder content you add remains on your device until you edit/delete it or uninstall the app.
+Onboarding answers remain on-device until app data is reset or removed.
 
-Sakinleşmeye yardımcı araçlar ve rehberlik sunmak
+## 8. International Users
+If you use the app outside your home country, core trigger processing remains primarily on-device.
 
-Eşleştirilmiş Apple Watch ve iPhone arasında canlı durum göstermek
+## 9. Changes to This Policy
+We may update this Privacy Policy from time to time.
+The "Last updated" date indicates the latest version.
 
-Verilerinizi reklam amacıyla kullanmayız.
-
-3. Depolama ve Paylaşım
-
-Relationship Reminders metinleri ve fotoğrafları cihazınızda yerel olarak saklanır.
-
-Canlı durum sinyalleri eşleştirilmiş Apple Watch ve iPhone arasında Apple WatchConnectivity aracılığıyla paylaşılır.
-
-Analiz için kullanılan fizyolojik sinyaller (kalp atış hızı ve HRV gibi) cihazınızda yerel olarak işlenir.
-
-Analiz için kullanılan tüm fizyolojik veriler kullanıcının cihazında kalır ve harici sunuculara gönderilmez.
-
-Kişisel verilerinizi satmayız.
-
-HealthKit verilerini pazarlama amacıyla üçüncü taraflarla paylaşmayız.
-
-4. Sağlık ve Güvenlik Uyarısı
-
-Bright Head yalnızca genel iyi oluş desteği için tasarlanmıştır.
-Herhangi bir hastalığı veya tıbbi durumu teşhis etmek, tedavi etmek, iyileştirmek veya önlemek amacıyla tasarlanmamıştır.
-
-Kendinizi iyi hissetmiyorsanız veya endişe verici belirtiler yaşıyorsanız, nitelikli bir sağlık uzmanına başvurun.
-
-5. İzinler
-
-İzinleri iOS/watchOS ayarlarından istediğiniz zaman reddedebilir veya geri çekebilirsiniz:
-
-Sağlık izinleri (Health uygulaması / Ayarlar)
-
-Motion & Fitness
-
-Bildirimler
-
-Fotoğraflar erişimi (hatırlatma fotoğrafları kullanılıyorsa)
-
-Gerekli izinler olmadan bazı özellikler çalışmayabilir.
-
-6. Çocuklar
-
-Bright Head 13 yaşın altındaki çocuklara yönelik değildir.
-Bir çocuğun kişisel bilgi sağladığını düşünüyorsanız, silme talebi için bizimle iletişime geçin.
-
-7. Veri Saklama
-
-Kullanıcı tarafından girilen hatırlatma içerikleri siz düzenleyene, silene veya uygulamayı kaldırana kadar cihazınızda kalır.
-
-8. Uluslararası Kullanıcılar
-
-Uygulamayı kendi ülkeniz dışında kullanıyor olsanız bile verileriniz öncelikle cihazınızda işlenmeye devam eder.
-
-9. Bu Politika Üzerindeki Değişiklikler
-
-Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz.
-“Son güncelleme” tarihi en güncel sürümü gösterir.
-
-10. İletişim
-
-İletişim e-postası:
-ozdemirtradesolutions@gmail.com
+## 10. Contact
+Contact email: ozdemirtradesolutions@gmail.com
