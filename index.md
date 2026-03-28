@@ -2,8 +2,8 @@
 
 Son güncelleme: 28 Mart 2026
 
-CoolHead ("biz", "uygulama") kisisel gelisim (wellness) desteği saglar ve tetiklenme durumlarinda size yardimci olur.
-CoolHead bir tıbbi cihaz değildir ve tani veya tedavi sunmaz.
+CoolHead ("biz", "uygulama") iyi oluş (wellness) desteği ve tetik düzenleme rehberliği sağlar.
+CoolHead bir tıbbi cihaz değildir ve tanı veya tedavi sunmaz.
 
 ## 1. Eriştiğimiz Veriler
 
@@ -28,12 +28,18 @@ Kart veya ödeme bilgileriniz doğrudan tarafımızca toplanmaz.
 ### Destek Formu (İsteğe Bağlı)
 Yardım ve Geri Bildirim ekranını açarsanız destek formu Tally (`tally.so`) üzerinden yüklenir.
 
+### Anonim Kullanım Analitiği
+Hangi özelliklerin kullanıldığı, oturum etkinliği, abonelik olayları ve genel onboarding tercihleri (örneğin, hangi tetik bağlamını veya hedefi seçtiğiniz — serbest metin girişi değil) gibi anonim kullanım analitiği toplamak için Mixpanel kullanıyoruz.
+Bu veriler sağlık bilgisi, kişisel tanımlayıcı veya sizi tanımlamak için kullanılabilecek herhangi bir veri içermez.
+Mixpanel'e veya herhangi bir analitik servisine HealthKit verisi gönderilmez.
+
 ## 2. Verileri Nasıl Kullanıyoruz
 Verileri şu amaçlarla kullanırız:
 - Tetik durumunu gerçek zamanlı tahmin etmek
 - Sakinleşmeye yardımcı araçlar ve rehberlik sunmak
 - Eşleşmiş Apple Watch ve iPhone arasında canlı durumu göstermek ve senkronlamak
 - Abonelik hak (entitlement) durumunu yönetmek
+- Anonim kullanım analitiği ile uygulamayı geliştirmek
 
 Verilerinizi reklam amacıyla kullanmayız.
 
@@ -43,8 +49,9 @@ Verilerinizi reklam amacıyla kullanmayız.
 - Tetik analizi için kullanılan fizyolojik sinyaller (ör. kalp atışı sinyalleri) cihaz üzerinde işlenir.
 - Tetik analizi için kullanılan fizyolojik veriler uygulama tarafından harici sunuculara gönderilmez.
 - Canlı durum sinyalleri, eşleşmiş saat ve telefon arasında Apple WatchConnectivity ile paylaşılır.
+- Anonim kullanım analitiği Mixpanel'e gönderilir. Bu veriler sizi tanımlayamaz ve sağlık bilgisi içermez.
 - Kişisel verileri satmayız.
-- HealthKit verilerini pazarlama amacıyla üçüncü taraflarla paylaşmayız.
+- HealthKit verilerini pazarlama veya analitik amacıyla üçüncü taraflarla paylaşmayız.
 
 ## 4. Sağlık ve Güvenlik Uyarısı
 CoolHead yalnızca genel iyi oluş desteği amacıyla tasarlanmıştır.
